@@ -1,0 +1,15 @@
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\bin\Debug\net6.0\Cs#Introduction.exe
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\bin\Debug\net6.0\Cs#Introduction.deps.json
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\bin\Debug\net6.0\Cs#Introduction.runtimeconfig.json
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\bin\Debug\net6.0\Cs#Introduction.dll
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\bin\Debug\net6.0\Cs#Introduction.pdb
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\obj\Debug\net6.0\Cs#Introduction.csproj.AssemblyReference.cache
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\obj\Debug\net6.0\Cs#Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\obj\Debug\net6.0\Cs#Introduction.AssemblyInfoInputs.cache
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\obj\Debug\net6.0\Cs#Introduction.AssemblyInfo.cs
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\obj\Debug\net6.0\Cs#Introduction.csproj.CoreCompileInputs.cache
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\obj\Debug\net6.0\Cs#Introduction.dll
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\obj\Debug\net6.0\refint\Cs#Introduction.dll
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\obj\Debug\net6.0\Cs#Introduction.pdb
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\obj\Debug\net6.0\Cs#Introduction.genruntimeconfig.cache
+C:\Users\victu\Downloads\Cs#Introduction\Cs#Introduction\obj\Debug\net6.0\ref\Cs#Introduction.dll
